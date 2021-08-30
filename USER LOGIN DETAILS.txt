@@ -1,0 +1,13 @@
+manisha_jain13,IIITDWD_01,Manisha jain,9898786754,O+ve
+indira_kumari,IIITDWD_06,INDIRA,  7878645453,0-ve
+Ankita_rao,IIITDWD_07,ANKITA SIVA RAO,9090765689,0+ve
+Ramana_reddy,IIITDWD_08,Ramanaa,08632224567,B+ve
+Sanjana_kumari,IIITDWD_09,Sanajana kumari,9999665454,O-ve
+Ranganadh.jeeva,IIITDWD_10,jeeva,8989787879,O+ve
+Nallagutta.dancer_sharath,IIITDWD_11,Sharth the dancer,9090898987,Ab+ve
+Malleshanna,IIITDWD_12,Mallesh,6306757887,ab+ve
+Bahubali_kumar,IIITDWD_13,Bahubali,9998887771,AB-ve
+Bijjala.deva,IIITDWD_14,bijjala,0863666787,O+ve
+Rana dev_billa,IIITDWD_15,ranaa,7775656432,O-ve
+Abhinav_46,abhinav@46,Abhi,9875432109,O+
+abhinav@6,abhinav@6,abhinav,9876543210,O+

@@ -1,0 +1,12 @@
+Ramula swami,7778883457,23-03-20,O+ve
+rangayya,8898893456,12-04-20,AB-ve
+vikram rathore,6308666323,27-04-20,AB-ve
+manisha shetty,7878793456,14-05-20,O-ve
+preethi shetty,9896953424,22-05-20,B+ve
+arjun reddy,9898534246,22-05-20,O+ve
+swetha jain,6305456736,28-05-20,B-ve
+Aswini kumar jain,8889676543,28-05-20,O+ve
+ankamma rao,7799456422,01-06-20,AB-ve
+alex,9998883434,06-08-20,O+ve
+abhian,9876543210,2021-08-29,O+
+abhianv,9876543210,2021-08-29,O+
