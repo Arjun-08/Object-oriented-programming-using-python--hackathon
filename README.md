@@ -11,3 +11,4 @@ results
 
 
 A backend application is programmed to take input from the users and store the data in csv files.
+No frontend is involved in this application. The main objective of this hackathon includes programming in python and store the data to database.
